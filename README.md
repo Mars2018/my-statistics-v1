@@ -1,3 +1,4 @@
+A small project for statistics, dev for a friend.
 MVC Structure：
     Model：StatisticBean, store data;
     Controller: StatisticController, handle data;
